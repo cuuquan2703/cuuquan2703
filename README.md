@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CuuQuan, you can also call me Owl =))
+- 👋 Hi, I’m CuuQuan, you can also call me Owl.
 - 👀 I’m interested in anything related to Computer, anything that is new for me. Its a new frontier for me.
 - 🌱 I’m currently learning Information Technolofy at HCMUS.
 - 💞️ I’m looking to collaborate on creating product field, emphasize at FrontEnd-React and BlockChain product.
