@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on creating product field, emphasize at FrontEnd-React  product, ML especially NLP and CV.
 - 📫 Contact me via:
 -  Email: cuuquan2703@gmail.com
--  Facebook: https://www.facebook.com/profile.php?id=100030039214644
 -  Phone: 0358766475
 
 <!---
