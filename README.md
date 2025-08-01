@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CuuQuan, you can also call me Rowan.
 - 👀 I’m interested in anything related to Computer, anything that is new for me.
-- 🌱 I’m currently pursuiting  MSc of Artificial Intelligence at HCMUS.
+- 🌱I have 2+ yoe in Software Engineer, especially product-domain and 1+ year in AI researching.
 - 📫 Contact me via:
 -  Email: cuuquan2703@gmail.com
 -  Phone: 0358766475
